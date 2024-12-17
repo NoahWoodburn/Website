@@ -35,7 +35,6 @@ main {
   box-shadow: 5px 5px 0px 0px wheat;
   border-radius: 5px;
   background-image: url(../images/floor-1256804_1280.jpg);
-  background-position: cover;
   background-repeat: repeat;
   background-color: #e6c17c;
   animation-name: colorchange;
