@@ -426,7 +426,7 @@ td {
 }
 
 button[type="submit"] {
-  background-color: blanchedalmond;
+  background-color: rgb(245, 203, 125);
   border-radius: 5px;
   padding: 10px;
   margin-block: 5%;
