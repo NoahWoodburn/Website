@@ -251,7 +251,7 @@ a {
   color: rgb(245, 245, 245);
   font-weight: 1000;
   font-weight: bolder;
-  background-image: url("/images/drink-1839134_1280.jpg");
+  background-image: url("./images/drink-1839134_1280.jpg");
   background-size: cover;
   margin-block-start: 2%;
 }
