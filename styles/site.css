@@ -662,15 +662,7 @@ button[type="submit"]:hover {
   text-align: center;
 }
 @media (min-width: 750px) {
-  .beansupply {
-    background-image: url(./images/coffee-1324126_640.jpg);
-  }
-  .machines {
-    background-image: url(./images/coffee-4618705_640.jpg);
-  }
-  .industry {
-    background-image: url(./images/agriculture-1846649_640.jpg);
-  }
+  
   .community{
     margin-inline: 5%;
   }
