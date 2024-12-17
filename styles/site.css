@@ -768,7 +768,7 @@ button[type="submit"]:hover {
     font-size: 1.2em;
   }
   .bizname {
-    background-image: url(./images/floor-1256804_1280.jpg);
+    background-image: url("floor-1256804_1280.jpg");
     background-repeat: no-repeat;
     background-position: cover;
     background-attachment: fixed;
