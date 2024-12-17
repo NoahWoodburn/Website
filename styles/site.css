@@ -252,6 +252,7 @@ a {
   font-weight: 1000;
   font-weight: bolder;
   background-image:url(../images/drink-1839134_1280.jpg);
+  width:100%;
   background-size: cover;
   margin-block-start: 2%;
 }
@@ -769,7 +770,7 @@ button[type="submit"]:hover {
     font-size: 1.2em;
   }
   .bizname {
-    background-image: url(/images/floor-1256804_1280.jpg);
+    background-image: url("../images/floor-1256804_1280.jpg");
     background-repeat: no-repeat;
     background-position: cover;
     background-attachment: fixed;
