@@ -769,7 +769,7 @@ button[type="submit"]:hover {
     font-size: 1.2em;
   }
   .bizname {
-    background-image: url(/images/floor-1256804_1280.jpg);
+    
     background-repeat: no-repeat;
     background-position: cover;
     background-attachment: fixed;
@@ -784,7 +784,7 @@ button[type="submit"]:hover {
     color: rgb(245, 245, 245);
     font-weight: 1000;
     font-weight: bolder;
-    background-image: url(/images/drink-1839134_1280.jpg);
+   
     background-size: cover;
     height: 38vw;
     font-size: 2em;
